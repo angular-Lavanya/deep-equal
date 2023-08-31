@@ -1,0 +1,8 @@
+/.idea
+node_modules
+/coverage
+/cjs
+/esm
+/esnext
+/benchmark/dist
+yarn-error.log
